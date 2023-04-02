@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/anusmita-cv/static/css/main.06e9c1e8.css",
+    "main.js": "/anusmita-cv/static/js/main.63d168cf.js",
+    "static/js/787.e8871c4f.chunk.js": "/anusmita-cv/static/js/787.e8871c4f.chunk.js",
+    "static/media/Coursera.jpg": "/anusmita-cv/static/media/Coursera.2f1ed093fccd474193c2.jpg",
+    "static/media/Guvi.png": "/anusmita-cv/static/media/Guvi.e00a3c4a88b7b4528489.png",
+    "static/media/BSNL.jpeg": "/anusmita-cv/static/media/BSNL.2ff7508f0201c76b7666.jpeg",
+    "static/media/sports.jpeg": "/anusmita-cv/static/media/sports.30796bfa7c581e638b3f.jpeg",
+    "static/media/me.jpg": "/anusmita-cv/static/media/me.99991b0690c6966603d2.jpg",
+    "static/media/geekonix.jpeg": "/anusmita-cv/static/media/geekonix.5cb33d753d10a4442f69.jpeg",
+    "static/media/CV.pdf": "/anusmita-cv/static/media/CV.44c9d86b00a296444b6f.pdf",
+    "static/media/black-linen.png": "/anusmita-cv/static/media/black-linen.8a1abc775dec4ce9e1d1.png",
+    "static/media/codestudio.jpeg": "/anusmita-cv/static/media/codestudio.9ad8bb2c50f46576083e.jpeg",
+    "static/media/lala.jpeg": "/anusmita-cv/static/media/lala.ec91c124268e47f9bb9f.jpeg",
+    "index.html": "/anusmita-cv/index.html",
+    "main.06e9c1e8.css.map": "/anusmita-cv/static/css/main.06e9c1e8.css.map",
+    "main.63d168cf.js.map": "/anusmita-cv/static/js/main.63d168cf.js.map",
+    "787.e8871c4f.chunk.js.map": "/anusmita-cv/static/js/787.e8871c4f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06e9c1e8.css",
+    "static/js/main.63d168cf.js"
+  ]
+}
